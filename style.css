@@ -1,3 +1,5 @@
+@import 'animate.css';
+
 * {
     margin: 0;
     padding: 0;
@@ -284,8 +286,6 @@ margin: 5px;
 .label[type="checkbox"]:checked~ .input span{
 background-color: #c90f0f;
 }
-
-
 
 
 
